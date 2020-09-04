@@ -1,0 +1,19 @@
+{
+  'TaskSequences': [
+    {
+      'Name': 'Deploy Windows 10 v2004',
+      'OS': 'Windows 10',
+      'Version': '2004'
+    },
+    {
+      'Name': 'Deploy Windows 10 v1909',
+      'OS': 'Windows 10',
+      'Version': '1909'
+    },
+    {
+      'Name': 'Deploy Windows 10 v1809',
+      'OS': 'Windows 10',
+      'Version': '1809'
+    }
+  ]
+}
